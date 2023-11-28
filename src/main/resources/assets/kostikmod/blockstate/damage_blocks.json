@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kostikmod:block/damage_blocks"
+    }
+  }
+}

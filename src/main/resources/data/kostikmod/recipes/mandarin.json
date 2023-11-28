@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G",
+    "A",
+    "D"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:chest"
+    },
+    "A": {
+      "item": "minecraft:stone"
+    },
+    "D": {
+      "item": "minecraft:gold_ore"
+    }
+  },
+  "result": {
+    "item": "kostikmod:mandarin"
+  }
+}
